@@ -1,0 +1,11 @@
+C:\Users\34123\source\repos\Game\Core\obj\Debug\Core.csprojAssemblyReference.cache
+C:\Users\34123\source\repos\Game\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\34123\source\repos\Game\Core\bin\Debug\Core.dll
+C:\Users\34123\source\repos\Game\Core\bin\Debug\Core.pdb
+C:\Users\34123\source\repos\Game\Core\obj\Debug\Core.dll
+C:\Users\34123\source\repos\Game\Core\obj\Debug\Core.pdb
+f:\Мои документы\c+++\ШАГ\C#\Game_Drunkard_C#\Core\bin\Debug\Core.dll
+f:\Мои документы\c+++\ШАГ\C#\Game_Drunkard_C#\Core\bin\Debug\Core.pdb
+f:\Мои документы\c+++\ШАГ\C#\Game_Drunkard_C#\Core\obj\Debug\Core.csprojAssemblyReference.cache
+f:\Мои документы\c+++\ШАГ\C#\Game_Drunkard_C#\Core\obj\Debug\Core.dll
+f:\Мои документы\c+++\ШАГ\C#\Game_Drunkard_C#\Core\obj\Debug\Core.pdb
